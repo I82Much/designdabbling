@@ -1,11 +1,12 @@
 2015-06-13
 
-Welcome to Design Dabbling. My name is Nicholas Dunn. I am a professional programmer, a gamer, a musician, a baker, and many more things. I am *not* an expert in design.
+Welcome to Design Dabbling. My name is Nicholas Dunn. I am a programmer. I am *not* an expert in design - I am a dabbler. I think that design should be made accessible and understandable to people of all backgrounds, not just professionals.
 
-I am a dabbler in design. I think that design should be made accessible and understandable to people of all backgrounds, not just those who have a professional background.
+My life can be split into two major phases - before and after reading [The Design of Everyday Things][] by Donald Norman. This is a seminal work of industrial design as it relates to human psychology and ease of use. It explains why certain everyday objects are intuitive to use while others are a constant struggle. This book changed the way that I see and interact with the physical world around me.
 
-My life can be split into two major phases - before and after reading [The Design of Everyday Things][] by Donald Norman. This is a seminal work of industrial design as it relates to human psychology and ease of use. It attempts to explain why certain everyday objects are intuitive to use while others are a constant struggle. This book literally changed the way that I see and interact with the physical world around me.
-
+<img src="https://lh3.googleusercontent.com/W9hsn7fTnDv-wkeDG-sTpFf9BwQPtN53CwvUNXspDKMC=w936-h702-no"
+width=100%
+alt="My two copies of The Design of Everyday Things"/>
 
 
 A second major book that influences my thinking is [Don't Make Me Think! A Common Sense Approach to Web Usability][] by Steve Krug. This book gave me the same appreciation for design in the digital realm as The Design of Everyday Things gave me for the physical.
@@ -16,3 +17,4 @@ I hope you'll join me.
 
 [The Design of Everyday Things]:http://www.amazon.com/gp/product/0465050654/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687682&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1452654123&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0ARBB32H6CD5F0V16KF7
 [Don't Make Me Think! A Common Sense Approach to Web Usability]:http://www.amazon.com/Think-Common-Sense-Approach-Usability/dp/0789723107
+[Two Copies of Design of Everyday Things]:https://lh3.googleusercontent.com/W9hsn7fTnDv-wkeDG-sTpFf9BwQPtN53CwvUNXspDKMC=w936-h702-no
