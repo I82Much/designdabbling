@@ -1,0 +1,11 @@
+2015-06-13
+
+Welcome to Design Dabbling. My name is Nick Dunn. I am a programmer, a gamer, a musician, a baker, and many more things. I am *not* a professional designer.
+
+My life can be split into two major phases - before and after reading [The Design of Everyday Things][] by Donald Norman. I don't remember how I came to find this book in college, but it left an indelible mark on my life. I cannot open a door without thinking of whether it opens the correct way. 
+
+I am most interested in design as it relates to usability, human factors, and engineering and that is what I plan to focus on. If you follow this blog you can expect to find pictures, animations, and occasional essays about design.
+
+I hope you'll follow me.
+
+[The Design of Everyday Things]:http://www.amazon.com/gp/product/0465050654/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687682&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1452654123&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0ARBB32H6CD5F0V16KF7
